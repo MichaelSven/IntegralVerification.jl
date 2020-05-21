@@ -1,0 +1,4 @@
+name = "IntegralVerification"
+uuid = "799d81bc-410e-48bb-9c2e-2d0f15e83939"
+authors = ["michaelSven <michael.sven.ferguson@gmail.com>"]
+version = "0.1.0"
